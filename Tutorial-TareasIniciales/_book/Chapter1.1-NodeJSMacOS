@@ -7,4 +7,6 @@ En MacOS la instalación de NodeJS puede ser realizada mediante la descarga y po
 
 En la imagen se observa lo ya mencionado anteriormente, viéndose como ya ha sido instalado el paquete que contiene nodeJS y el gestor de paquetes npm.
 
-Para comprobar que la instalación ha tenido exito, ejecutamos `node` y una vez dentro del intérprete `console.log('hello node')`.
+Para comprobar que la instalación ha tenido exito, ejecutamos `node` y una vez dentro del intérprete `console.log('hello node')`. A continuación se muestra una imagen con la salida para comprobar que ha sido instalado correctamente.
+
+![funcionamiento-nodejs](screenshots/nodejs-iberkanrhdez.png)
