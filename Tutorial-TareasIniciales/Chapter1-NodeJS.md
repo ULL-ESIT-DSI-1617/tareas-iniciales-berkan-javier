@@ -10,6 +10,6 @@ Como se observa en la imagen, en la web se muestran las dos versiones de descarg
 
 A continuación se muestran la manera en la que se puede instalar nodejs en los sistemas Windows, MacOS y Ubuntu.
 
-* [Intalación NodeJS en MacOS.](Chapter1.1-NodeJSMacOS)
-* [Intalación NodeJS en Windows.](Chapter1.2-NodeJSWindows)
-* [Intalación NodeJS en Ubuntu.](Chapter1.1-NodeJSUbuntu)
+* [Intalación NodeJS en MacOS.](Chapter1.1-NodeJSMacOS.md)
+* [Intalación NodeJS en Windows.](Chapter1.2-NodeJSWindows.md)
+* [Intalación NodeJS en Ubuntu.](Chapter1.1-NodeJSUbuntu.md)
