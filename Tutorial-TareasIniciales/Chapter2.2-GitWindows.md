@@ -8,14 +8,14 @@
 4. Selecciona las opciones deseadas durante el proceso de instalación. 
 5. Una vez finalizada la instalación estarán instalados dos terminales para ejecutar comando de git y una interfaz gráfica para Git(con las opciones por defecto).
 
-* **Git gui**
+### **Git gui**
 
 ![Git gui](screenshots/GitGUI.png)
 
-* **Git CMD**
+### **Git CMD**
 
 ![Git CMD](screenshots/GitCMD.png)
 
-* **Git Bash**
+### **Git Bash**
  
-![Git Bash](screenshots/GitGUI.png)
+![Git Bash](screenshots/GitBash.png)
