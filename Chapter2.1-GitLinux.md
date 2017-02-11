@@ -1,4 +1,4 @@
-# [Git](Chapter2-Git.md)
+# **[Git](Chapter2-Git.md)**
 ## Instalación de Git en Linux
 
 1. Ejecuta el siguiente comando.

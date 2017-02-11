@@ -7,9 +7,14 @@ En su página web [www.nodejs.org](www.nodejs.org), podemos encontrar las divers
 
 Como se observa en la imagen, en la web se muestran las dos versiones de descargas, la recomendada, estable, y una actual que contiene las últimas características. Además de diferencian diversos sistemas para los que se encuentra disponible este entorno de ejecución de JavaScript. Por último, para cada uno de los sistemas aparecen distintos tipos de descarga en función de dicho sistema.
 
+## **Intalación NodeJS en MacOS**
 
-A continuación se muestran la manera en la que se puede instalar nodejs en los sistemas Windows, MacOS y Ubuntu.
+En MacOS la instalación de NodeJS puede ser realizada mediante la descarga y posterior instalación de un paquete que contiene tanto el entorno de ejecución para JavaScript como el gestor de paquetes "npm".
 
-* [Intalación NodeJS en MacOS.](Chapter1.1-NodeJSMacOS.md)
-* [Intalación NodeJS en Windows.](Chapter1.2-NodeJSWindows.md)
-* [Intalación NodeJS en Ubuntu.](Chapter1.1-NodeJSUbuntu.md)
+![intalación-nodejs](screenshots/nodejs-package.png)
+
+En la imagen se observa lo ya mencionado anteriormente, viéndose como ya ha sido instalado el paquete que contiene nodeJS y el gestor de paquetes npm.
+
+Para comprobar que la instalación ha tenido exito, ejecutamos `node` y una vez dentro del intérprete `console.log('hello node')`. A continuación se muestra una imagen con la salida para comprobar que ha sido instalado correctamente.
+
+![funcionamiento-nodejs](screenshots/nodejs-iberkanrhdez.png)

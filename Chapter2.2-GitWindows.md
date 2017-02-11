@@ -1,4 +1,4 @@
-# [Git](Chapter2-Git.md)
+# **[Git](Chapter2-Git.md)**
 ## Instalación de Git en Windows
 
 1. Dirígete a la siguiente página: [https://git-scm.com/download/win](https://git-scm.com/download/win) 
