@@ -3,7 +3,9 @@
 **Markdown** es un lenguaje de marcas que busca maximizar la legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones para marcar mensajes de correo electrónico usando texto plano. 
 
 ## Como escribir en markdown 
-> La extensión del archivo markdown es .md 
+
+La extensión del archivo markdown es .md 
+
 ### Encabezado 
 ```markdown
 # Encabezado de nivel 1 
