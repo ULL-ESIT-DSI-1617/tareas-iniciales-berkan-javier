@@ -1,5 +1,5 @@
 # [** Node JS **](Chapter1.1-NodeJS)
-* ## Intalación NodeJS en MacOS
+## **Intalación NodeJS en MacOS**
 
 En MacOS la instalación de NodeJS puede ser realizada mediante la descarga y posterior instalación de un paquete que contiene tanto el entorno de ejecución para JavaScript como el gestor de paquetes "npm".
 
