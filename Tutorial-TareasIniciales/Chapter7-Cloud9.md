@@ -1,4 +1,4 @@
-# ** Cloud 9 **
+# **Cloud 9**
 
 c9 es un entorno de desarrollo online, en la nube, que nos permite no solo editar código sino también administrar un servidor virtual. Cloud9 es una de las mejores opciones que podemos encontrar como entorno de desarrollo en la nube. Básicamentees un programa que se ejecuta sobre el navegador pero que a pesar de ese limitante tiene las funcionalidades más destacadas de un IDE en el que además tenemos un entorno de trabajo real donde podemos poner nuestros programas en ejecución, ya sean sitios web o programas ejecutables.
 

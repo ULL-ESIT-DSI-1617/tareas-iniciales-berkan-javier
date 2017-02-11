@@ -1,4 +1,4 @@
-# ** Atom **
+# **Atom**
 
 En su página oficial, [https://atom.io/](https://atom.io/), Atom es definido como un editor de texto que es moderno, accesible y personalizable ya que es posible modificar sus archivos de configuración y descargar paquetes para hacer cualquier cosa. Además, para los menos expertos, todo esto es posible también sin tener que modificar ninguno de sus archivos de configuración.
 
